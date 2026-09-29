@@ -1,0 +1,12 @@
+[
+  {
+    "patient": "Alice Smith",
+    "practitioner": "Dr. John Doe",
+    "time": "2024-07-20 10:00 AM"
+  },
+  {
+    "patient": "Bob Johnson",
+    "practitioner": "Dr. Jane Roe",
+    "time": "2024-07-20 11:30 AM"
+  }
+]
