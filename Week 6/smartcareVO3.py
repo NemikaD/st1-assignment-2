@@ -1,4 +1,4 @@
-# SmartCare v0.3 - Domain class skeletons (Week 6)
+# SmartCare v0.3)
 # Behaviour is intentionally not implemented yet.
 
 class Patient:
@@ -7,7 +7,7 @@ class Patient:
         self.name = name
 
     def matches(self, query):
-        """Return True if query matches this patient's ID or name."""
+        """Return True if query matches this patient's ID or name.""" 
         pass
 
 
